@@ -9,7 +9,7 @@ SITE_TEMPLATE = """
 <title>nipunn1313/paper_dbx_brand_theme</title>
 </head>
 
-Drag This Link to Bookmark Bar to Install: <a href={bookmarklet}>Paper: Toggle DBX Theme</a>
+Drag This Link to Bookmark Bar to Install: <a href="{bookmarklet}">Paper: Toggle DBX Theme</a>
 
 </body>
 </html>
