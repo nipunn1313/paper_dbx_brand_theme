@@ -1,4 +1,4 @@
-javascript:(function(){
+function(){
     var bg_fg = [
         ["#0d2481", "#ffafa2"],  /* Pink on Blue */
         ["#ffafa2", "#0d2481"],  /* Blue on Pink */
@@ -24,4 +24,4 @@ javascript:(function(){
     /* Invert colors for header */
     $(".hp-p8n-controls").css("background-color", fg);
     $(".hp-p8n-controls .dmc-button, .hp-p8n-controls .dmc-button .svg-icon").css("color", bg).css("fill", bg);
-})();
+}
