@@ -17,7 +17,7 @@ Drag This Link to Bookmark Bar to Install: <a href="{bookmarklet}">Paper: Toggle
 
 script = "paper_toggle_rebrand.js"
 with open("paper_toggle_rebrand.js", 'r') as fp:
-    contents = fp.read()
+    contents = urllib.quote(fp.read())
 
 with open("index.html", "w") as fp:
     fp.write(SITE_TEMPLATE.format(bookmarklet=contents))
