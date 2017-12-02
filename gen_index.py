@@ -15,8 +15,7 @@ Drag This Link to Bookmark Bar to Install: <a href="javascript:({bookmarklet})()
 </html>
 """
 
-script = "paper_toggle_rebrand.js"
-with open("paper_toggle_rebrand.js", 'r') as fp:
+with open("paper_dbx_brand_theme.js", 'r') as fp:
     contents = urllib.quote(fp.read())
 
 with open("index.html", "w") as fp:
