@@ -2,7 +2,17 @@
 import urllib
 
 SITE_TEMPLATE = """
+<html>
+<body>
+
+<head>
+<title>nipunn1313/paper_dbx_brand_theme</title>
+</head>
+
 <a href={bookmarklet}>Drag This Link to Bookmark Bar to Install</a>
+
+</body>
+</html>
 """
 
 script = "paper_toggle_rebrand.js"
