@@ -17,7 +17,7 @@ Drag This Link to Bookmark Bar to Install: <a href="javascript:{bookmarklet}">Pa
 
 script = "paper_toggle_rebrand.js"
 with open("paper_toggle_rebrand.js", 'r') as fp:
-    contents = urllib.quote(fp.read())[len("javascript:"):]
+    contents = urllib.quote(fp.read()[len("javascript:"):])
 
 with open("index.html", "w") as fp:
     fp.write(SITE_TEMPLATE.format(bookmarklet=contents))
