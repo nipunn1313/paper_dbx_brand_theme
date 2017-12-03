@@ -2,7 +2,7 @@
 
 Get your paper docs and presentations to be spiffy themed like https://dropbox.design
 
-![Soooo spiffy](https://raw.githubusercontent.com/nipunn1313/paper_dbx_brand_theme/master/paper_dbx_brand_theme_demo.gif)
+![Soooo spiffy](https://raw.githubusercontent.com/nipunn1313/paper_dbx_brand_theme/master/paper_dbx_brand_theme_demo.gif "Soooo spiffy")
 
 # Installation
 1. Visit https://nipunn1313.github.io/paper_dbx_brand_theme/
