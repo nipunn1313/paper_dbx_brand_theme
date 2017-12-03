@@ -11,3 +11,6 @@ Get your paper docs and presentations to be spiffy themed like https://dropbox.d
 4. Present your doc [Optional]
 5. Click your bookmarklet!
 6. Click it again!
+
+# You Might Also Like
+[Programatic Paper Doc Generator](https://github.com/ainjii/programatic_paper_doc_generator)
