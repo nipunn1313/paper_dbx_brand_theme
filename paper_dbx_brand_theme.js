@@ -41,4 +41,6 @@ function(){
         "color": fg,
         "background-color": bg,
     });
+
+    $('table').css('background-color', bg);
 }
