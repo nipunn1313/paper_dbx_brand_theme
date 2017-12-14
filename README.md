@@ -20,8 +20,8 @@ File bugs and feature requests using the github [issue tracker](https://github.c
 Pull Requests welcome!
 
 ## Contributors
-- @nipunn1313
-- @ainjii
+- [@nipunn1313](https://github.com/nipunn1313)
+- [@ainjii](https://github.com/ainjii)
 
 # You Might Also Like
 [Programatic Paper Doc Generator](https://github.com/ainjii/programatic_paper_doc_generator)
