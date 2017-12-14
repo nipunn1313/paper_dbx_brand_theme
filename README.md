@@ -19,5 +19,9 @@ Just reload the page!
 File bugs and feature requests using the github [issue tracker](https://github.com/nipunn1313/paper_dbx_brand_theme/issues).
 Pull Requests welcome!
 
+## Contributors
+- @nipunn1313
+- @ainjii
+
 # You Might Also Like
 [Programatic Paper Doc Generator](https://github.com/ainjii/programatic_paper_doc_generator)
