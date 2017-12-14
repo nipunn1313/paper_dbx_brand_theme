@@ -19,9 +19,26 @@ function(){
     var bg = bg_fg[window.paper_color_idx][0];
     var fg = bg_fg[window.paper_color_idx][1];
 
-    /* Main colors in editor */
-    $(".ace-editor, body").css("color", fg).css("background-color", bg);
-    /* Invert colors for header */
+    /* Buttons */
+    $(".svg-icon").css("fill", bg);
+    $(".dmc-button").css("color", bg);
+    $(".dmc-button-primary").css({
+        "background-color": bg,
+        "color": fg,
+    });
+
+    /* edit mode */
+    $(".main-header-divider").css("border-right-color", bg);
+    $("#main-header, .main-header-right, .hp-header-title, .hp-header-privacy-avatar-doc-type").css({
+        "color": bg,
+        "background-color": fg,
+    });
+    $(".hp-header-subtitle-dot-separator").css("background-color", bg);
+
+    /* presentation mode */
     $(".hp-p8n-controls").css("background-color", fg);
-    $(".hp-p8n-controls .dmc-button, .hp-p8n-controls .dmc-button .svg-icon").css("color", bg).css("fill", bg);
+    $(".ace-editor, body").css({
+        "color": fg,
+        "background-color": bg,
+    });
 }
