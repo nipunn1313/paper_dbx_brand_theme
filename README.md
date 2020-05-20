@@ -21,7 +21,7 @@ Pull Requests welcome!
 
 ## Contributors
 - [@nipunn1313](https://github.com/nipunn1313)
-- [@ainjii](https://github.com/ainjii)
+- [@mmmmmmaya](https://github.com/mmmmmmaya)
 
 # You Might Also Like
 [Programatic Paper Doc Generator](https://github.com/ainjii/programatic_paper_doc_generator)
